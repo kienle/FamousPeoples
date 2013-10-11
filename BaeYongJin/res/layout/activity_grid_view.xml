@@ -22,5 +22,6 @@
 	       ads:adSize="SMART_BANNER"
 	       ads:adUnitId="a15257b8ba51478"
 	       ads:loadAdOnCreate="true"
+	       ads:testDevices="D77402DF6D0768915D06DC02AC3B386A"
 	       />
 </RelativeLayout>
